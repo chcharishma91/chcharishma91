@@ -27,7 +27,7 @@ I love diving into data to uncover insights – it's like solving puzzles every 
 
 ## 📂 Selected Projects
 
-- **Early Prediction of Sepsis from Clinical Data** – Analyzed clinical data and created interactive dashboards in **Tableau** to visualize patient trends and key metrics.    
+- **Early Sepsis Detection through Clinical Data Analysis** – Analyzed clinical data and created interactive dashboards in **Tableau** to visualize patient trends and key metrics.    
 - **PADS Data Analysis** – Analyzed tremor patterns, motor symptom variations, and the effects of alcohol on tremor using Python, Tableau, and Power BI to generate actionable insights.  
 
 *More projects available in my [GitHub repositories](your-github-link)*  
